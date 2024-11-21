@@ -9,8 +9,12 @@
 <br/>
 
 <p align="center">
+<div align="center">
   <h1>Welcome to My Full Stack Journey 🚀</h1>
+</div>
+<div align="center">
   <h3>Turning Ideas into Impactful Code</h3>
+</div>
 </p>
 
 ---
