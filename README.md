@@ -9,9 +9,15 @@
 <br/>
 
 <div align="center">
-    🔭 I’m currently working on **Task Management System with React**  
-    🌱 I’m currently learning **Docker, Kubernetes, AWS, CI/CD**  
+    🔭 I’m currently working on **Task Management System with React**
+    </div>
+<div align="center">
+    🌱 I’m currently learning **Docker, Kubernetes, AWS, CI/CD**
+    </div>
+<div align="center">
     💬 Ask me about **Node.js, React, MongoDB, JWT, Express** or anything [here](https://github.com/marwan-elsayed/marwan-elsayed/issues)  
+    </div>
+<div align="center">
     ⚡ Fun fact: **I'm a competitive programming enthusiast and love solving problems!**
 </div>
 
