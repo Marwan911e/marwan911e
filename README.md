@@ -17,13 +17,18 @@
 
 ## 👨‍💻 Who Am I?
 
-I'm **Marwan Elsayed**, a Full Stack Developer focused on creating powerful web applications with **MERN stack** (MongoDB, Express, React, Node.js). I specialize in delivering scalable and user-friendly solutions.
+<p align="center">
+  <small>I'm <strong>Marwan Elsayed</strong>, a Full Stack Developer focused on creating powerful web applications with <strong>MERN stack</strong> (MongoDB, Express, React, Node.js). I specialize in delivering scalable and user-friendly solutions.</small>
+</p>
 
 ---
 
 ## 🌍 Mission
 
-I aim to create **innovative web solutions** that blend **technology, design**, and **user experience**, while continuously learning and evolving.
+<p align="center">
+  <small>I aim to create <strong>innovative web solutions</strong> that blend <strong>technology, design</strong>, and <strong>user experience</strong>, while continuously learning and evolving.</small>
+</p>
+
 
 
 <div align="center"> 
