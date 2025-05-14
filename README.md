@@ -40,7 +40,7 @@
       </p>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan911e&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan911e&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -93,8 +93,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marwan911e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marwan911e&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marwan911e&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 </div>
 
 <br/>
@@ -102,18 +101,13 @@
 <div align="center">
   <h2>🏆 Recent Projects</h2>
   <a href="https://github.com/Marwan911e?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marwan911e&repo=Marwan911e&theme=tokyonight&hide_border=true" alt="Project Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marwan911e&repo=Marwan911e&theme=nord&hide_border=true" alt="Project Repo"/>
   </a>
 </div>
 
 <div align="center">
   <h2>📈 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marwan911e&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-  <h2>🐍 My Contributions</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Marwan911e/Marwan911e/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marwan911e&theme=nord&hide_border=true" width="100%"/>
 </div>
 
 <br/>
